@@ -68,9 +68,53 @@ Bin contains your app, and lib contains your stacks
 One Project can only have one app, but one project can have multiple stacks within the project.
 
 <img width="1226" height="638" alt="image" src="https://github.com/user-attachments/assets/577bfc87-cdac-45eb-b25f-aa21bbd6d68d" />
-The 
+The The 
 Main Stack that one has to build will be part of the stack under the lib folder.
 <img width="1225" height="696" alt="image" src="https://github.com/user-attachments/assets/d0723efc-6938-4492-b489-0570b47b8e6d" />
+Important CDK Commands
+
+CDK List Stack
+CDK BootStack - which bootstraps
+CDK Deploy - It will deploy all the resources
+
+<img width="1219" height="614" alt="image" src="https://github.com/user-attachments/assets/7ac31dcb-dd83-4dc2-914f-4b04d1c78f66" />
+
+### CDK Help
+
+The image shows the output of the `cdk help` command, which lists all available AWS CDK (Cloud Development Kit) CLI commands. Here's a breakdown of the key commands and their purposes:
+
+---
+
+### **AWS CDK CLI Commands**
+
+| Command | Description |
+|--------|-------------|
+| `cdk list [STACKS..]` | Lists all stacks in your CDK app. Alias: `ls`. |
+| `cdk synthesize [STACKS..]` | Generates and prints the CloudFormation template for the specified stack(s). Alias: `synth`. |
+| `cdk bootstrap [ENVIRONMENTS..]` | Deploys the CDK toolkit stack into an AWS environment (required before deploying stacks). |
+| `cdk deploy [STACKS..]` | Deploys the specified stack(s) to your AWS account. |
+| `cdk import [STACK]` | Imports existing AWS resources into a CDK stack. |
+| `cdk watch [STACKS..]` | Shortcut for `deploy --watch`, automatically deploys changes when files are updated. |
+| `cdk destroy [STACKS..]` | Destroys the specified stack(s) in AWS. |
+| `cdk diff [STACKS..]` | Compares the local stack definition with the deployed version or a local template file. Returns exit code 1 if differences are found. |
+| `cdk metadata [STACK]` | Retrieves metadata associated with a stack. |
+| `cdk acknowledge [ID]` | Acknowledges a notice so it won’t appear again. Alias: `ack`. |
+| `cdk notices` | Lists relevant notices or warnings from the CDK. |
+| `cdk init [TEMPLATE]` | Creates a new, empty CDK project based on a template (e.g., `app`, `api`, etc.). |
+| `cdk context` | Manages cached context values used during synthesis. |
+| `cdk docs` | Opens the official CDK reference documentation in a browser. Alias: `doc`. |
+| `cdk doctor` | Checks your CDK setup for potential issues and provides suggestions. |
+
+---
+
+### **Usage Tips**
+- Use `cdk synth` to preview what will be deployed without modifying AWS.
+- Use `cdk diff` to see changes between your current code and the deployed state.
+- Always run `cdk bootstrap` once per AWS environment before deploying any stacks.
+- Use `cdk watch` during development for faster iteration.
+
+Let me know if you'd like examples or explanations for any specific command!
+
 
 
 
