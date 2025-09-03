@@ -1,7 +1,7 @@
 
 
 [AWS CDK Crash Course for Beginners](https://www.youtube.com/watch?v=D4Asp5g4fp8)  
-Note: I went through the above crash course and during the interview, it will help as a quick refresher and reference. Hope it is not a content violation 
+Note: I went through the above crash course, and during the interview, it will help as a quick refresher and reference. Hope it is not a content violation 
 
 <img width="1190" height="452" alt="image" src="https://github.com/user-attachments/assets/baa381da-34d5-407e-993c-91bcb08a0c49" />  
 
@@ -58,16 +58,20 @@ CDK.json - CDK Configuration, Specification for CDK
 
 <img width="1217" height="636" alt="image" src="https://github.com/user-attachments/assets/4ee64174-cf90-484c-b507-4c92e7535132" />
 
-CDK Unit Testcases - Generates the CloudFormation Template and Testcases verify if the corresponding property is available within the generated CloudFormation template
+CDK Unit Testcases - Generates the CloudFormation Template and Testcases, and verifies if the corresponding property is available within the generated CloudFormation template
 <img width="1227" height="649" alt="image" src="https://github.com/user-attachments/assets/a261b27e-05ce-4fab-b0e0-fee56f7e114b" />
 
-Bin Contains you app and lib contains your stacks
+Bin contains your app, and lib contains your stacks
 <img width="1223" height="637" alt="image" src="https://github.com/user-attachments/assets/c655b1c3-80fd-48d8-a55c-c8fcf850b351" />
 
 
-One Project can only have one app, but one can have multiple stacks within the project.
+One Project can only have one app, but one project can have multiple stacks within the project.
 
 <img width="1226" height="638" alt="image" src="https://github.com/user-attachments/assets/577bfc87-cdac-45eb-b25f-aa21bbd6d68d" />
+The 
+Main Stack that one has to build will be part of the stack under the lib folder.
+<img width="1225" height="696" alt="image" src="https://github.com/user-attachments/assets/d0723efc-6938-4492-b489-0570b47b8e6d" />
+
 
 
 
