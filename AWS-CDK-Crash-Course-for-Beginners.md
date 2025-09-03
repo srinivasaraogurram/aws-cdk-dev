@@ -1,6 +1,7 @@
 
 
 [AWS CDK Crash Course for Beginners](https://www.youtube.com/watch?v=D4Asp5g4fp8)  
+Note: I went through the above crash course and during the interview, it will help as a quick refresher and reference. Hope it is not a content violation 
 
 <img width="1190" height="452" alt="image" src="https://github.com/user-attachments/assets/baa381da-34d5-407e-993c-91bcb08a0c49" />  
 
@@ -28,6 +29,21 @@
 
 
 <img width="1249" height="713" alt="image" src="https://github.com/user-attachments/assets/99d3b028-b07f-4481-809d-3f2c5794867d" />
+
+<img width="1197" height="658" alt="image" src="https://github.com/user-attachments/assets/7cf42125-32d3-428f-abde-93db8d394fbd" />
+
+<img width="1291" height="768" alt="image" src="https://github.com/user-attachments/assets/b6ba04d4-3df2-4c39-ade6-8a8edba2d6b6" />  
+
+<img width="1204" height="692" alt="image" src="https://github.com/user-attachments/assets/bffa704b-2b8a-4066-bc01-9dbe7a917098" />
+
+CDK Watch
+CDK Migrate
+
+<img width="1225" height="233" alt="image" src="https://github.com/user-attachments/assets/749b9f15-2cb8-4563-ba53-57d32426b670" />
+
+
+
+
 
 
 
