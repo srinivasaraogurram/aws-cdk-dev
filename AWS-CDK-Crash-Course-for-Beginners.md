@@ -61,6 +61,8 @@ CDK.json - CDK Configuration, Specification for CDK
 CDK Unit Testcases - Generates the CloudFormation Template and Testcases verify if the corresponding property is available within the generated CloudFormation template
 <img width="1227" height="649" alt="image" src="https://github.com/user-attachments/assets/a261b27e-05ce-4fab-b0e0-fee56f7e114b" />
 
+Bin Contains you app and lib contains your stacks
+<img width="1223" height="637" alt="image" src="https://github.com/user-attachments/assets/c655b1c3-80fd-48d8-a55c-c8fcf850b351" />
 
 
 
