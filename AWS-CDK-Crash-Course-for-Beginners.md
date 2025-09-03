@@ -119,6 +119,7 @@ Let me know if you'd like examples or explanations for any specific command!
 
 <img width="1220" height="643" alt="image" src="https://github.com/user-attachments/assets/b1f0664d-e2a1-410b-b0a4-0ab1d946990d" />
 
+<img width="1217" height="628" alt="image" src="https://github.com/user-attachments/assets/8d91badf-3956-41b9-ba4a-78bcac0c662d" />
 
 
 
