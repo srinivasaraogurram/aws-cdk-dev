@@ -65,6 +65,10 @@ Bin Contains you app and lib contains your stacks
 <img width="1223" height="637" alt="image" src="https://github.com/user-attachments/assets/c655b1c3-80fd-48d8-a55c-c8fcf850b351" />
 
 
+One Project can only have one app, but one can have multiple stacks within the project.
+
+<img width="1226" height="638" alt="image" src="https://github.com/user-attachments/assets/577bfc87-cdac-45eb-b25f-aa21bbd6d68d" />
+
 
 
 
