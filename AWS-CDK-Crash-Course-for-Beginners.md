@@ -1,7 +1,7 @@
 
 
 [AWS CDK Crash Course for Beginners](https://www.youtube.com/watch?v=D4Asp5g4fp8)  
-Note: I went through the above crash course, and during the interview, it will help as a quick refresher and reference. Hope it is not a content violation 
+Note: I have completed the above crash course, and it will serve as a quick refresher and reference during the interview. Hope it is not a content violation 
 
 <img width="1190" height="452" alt="image" src="https://github.com/user-attachments/assets/baa381da-34d5-407e-993c-91bcb08a0c49" />  
 
@@ -77,6 +77,11 @@ CDK List Stack
 CDK BootStack - which bootstraps
 CDK Deploy - It will deploy all the resources
 
+Create a workflow using warp
+
+<img width="1234" height="646" alt="image" src="https://github.com/user-attachments/assets/a5093f0c-a00a-4614-9012-7969dbe93c0b" />
+
+
 <img width="1219" height="614" alt="image" src="https://github.com/user-attachments/assets/7ac31dcb-dd83-4dc2-914f-4b04d1c78f66" />
 
 ### CDK Help
@@ -116,10 +121,23 @@ The image shows the output of the `cdk help` command, which lists all available 
 Let me know if you'd like examples or explanations for any specific command!
 
 
+### Important CDK Commands
+- Frequently used Commands
+  - cdk list -- list the list of stacks
+  - cdk synth -- Generates the cloud formation template as output
+  - 
+
+
+
 
 <img width="1220" height="643" alt="image" src="https://github.com/user-attachments/assets/b1f0664d-e2a1-410b-b0a4-0ab1d946990d" />
 
 <img width="1217" height="628" alt="image" src="https://github.com/user-attachments/assets/8d91badf-3956-41b9-ba4a-78bcac0c662d" />
+
+
+Other S3 Life Cycle Operations one can do on S2 Construct
+<img width="1231" height="655" alt="image" src="https://github.com/user-attachments/assets/56a9851e-a8ac-4391-b877-618e0b606931" />
+
 
 
 
